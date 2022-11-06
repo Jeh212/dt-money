@@ -1,0 +1,20 @@
+{
+    "transaction": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de Site",
+            "category": "Venda",
+            "type": "income",
+            "price": 14000,
+            "createdAt": "'2022-11-06T04:47:55.842Z'"
+        },
+        {
+            "id": 2,
+            "description": "Pizza",
+            "category": "Alimentação",
+            "type": "outcome",
+            "price": 150,
+            "createdAt": "'2022-11-06T12:47:55.842Z'"
+        }
+    ]
+} 
